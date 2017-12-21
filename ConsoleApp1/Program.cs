@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string test = "test";
+            string test = "test2";
         }
     }
 }
