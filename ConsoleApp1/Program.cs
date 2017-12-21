@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string test = "test2";
+            int test2 = 87;
         }
     }
 }
